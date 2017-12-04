@@ -63,7 +63,7 @@ logger.debug(arguments)
 # Determine the output directory
 PKG_DIR = os.path.dirname(__file__)
 PROJECT_DIR = os.path.dirname(PKG_DIR)
-release_dir = os.path.join(PROJECT_DIR, 'output-stubs')
+release_dir = os.path.join(PROJECT_DIR, 'spotfire-stubs')
 os.chdir(PROJECT_DIR)
 
 # Scan the modules folder for subfolders and add those to the system path variable and pick out the dlls to load
