@@ -12,8 +12,8 @@ support autocomplete while writing code.
 
 # Using the Stubs
 
-TODO - an article on Tibco's community site
-I will upload pre-built stubs for various Spotfire versions, along with instructions on how to use the stubs.
+Pre-built stubs for different Spotfire versions, along with instructions on how to configure various editors can be found
+on Tibco's community site at https://community.tibco.com/wiki/how-use-external-editor-edit-ironpython-scripts-autocomplete-and-syntax-checking
 
 # Generating Stubs
 
